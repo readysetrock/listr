@@ -1,0 +1,27 @@
+{
+  "name": "listr",
+  "version": "0.0.1",
+  "description": "MEAN app",
+  "main": "server.js",
+  "author": "TT",
+  "dependencies": {
+    "express": "~4.6.1",
+    "mongoose": "~3.8.13",
+    "morgan": "~1.1.1",
+    "body-parser": "~1.4.3",
+    "method-override": "~2.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/readysetrock.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/readysetrock/issues"
+  },
+  "homepage": "https://github.com/github.com/readysetrock#readme"
+}
